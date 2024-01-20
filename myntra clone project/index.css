@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Assistant,-apple-system,BlackMacSystemFont,Seagoe UI,
+    Roboto,Arial, Helvetica,Arial, sans-serif;
+}
+header{
+    display: flex;
+    background-color: peachpuff;
+    height: 80px;
+    justify-content: space-between;
+}
+.myntra_home{
+    height: 45px;
+    
+}
+.logo_container{
+    margin-left: 4%;
+}
